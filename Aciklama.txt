@@ -1,0 +1,9 @@
+Bu python kodunda kullanıcıdan aldığımız 2 string metin bilgisini ilk olarak bir tablo
+olusturup sqlite veritabanına aktarıp,daha sonradan benzerlik
+hesaplamak icin jaccard benzerlik yaklasimi kullanarak bir metod
+olusturarak bu metodda girilen string metinlerdeki kelimeleri bosluğa
+göre tek tek ayırıp 2 ayrı stringdeki kesişim eleman sayisinin 
+birlesim eleman sayisina oranını bularak bize 2 string metnin
+benzerlik oranını dondurmus olur daha sonradan bu benzerlik 
+oranını bir metin belgesi icine yazarak sonucu görmemize olanak 
+saglar.
